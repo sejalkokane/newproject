@@ -5,4 +5,5 @@ main()
     int age =0;
   scanf("%d",&age);
   printf("you just saude your age is :%d",age);
+  
 }
